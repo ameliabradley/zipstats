@@ -1,0 +1,29 @@
+{
+  "name": "zipstats",
+  "version": "1.0.0",
+  "description": "Show zip stats",
+  "main": "index.js",
+  "bin": {
+    "zipstats": "bin/zipstats.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leebradley/zipstats"
+  },
+  "author": "Lee Bradley <elephanthunter@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "file",
+    "size",
+    "filesize",
+    "zip",
+    "table"
+  ],
+  "dependencies": {
+    "adm-zip": "^0.4.16",
+    "chalk": "^3.0.0",
+    "filesize": "^6.1.0",
+    "table": "^5.4.6"
+  }
+}
