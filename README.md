@@ -14,7 +14,13 @@ $ yarn add zipstats --dev
 
 ## Usage
 
-This generates a zip file size table
+### CLI
+
+```
+Usage: zipstats [FILENAME]
+```
+
+### Library
 
 ```javascript
 const zipstats = require('zipstats');
