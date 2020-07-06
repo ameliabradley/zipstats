@@ -55,6 +55,14 @@ chalk@^3.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
+chalk@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.0.tgz#4e14870a618d9e2edd97dd8345fd9d9dc315646a"
+  integrity sha512-qwx12AxXe2Q5xQ43Ac//I6v5aXTipYrSESdOgzrN+9XjgEpyjpKuvSGaN4qE93f7TQTlerQQ8S+EQ0EyDoVL1A==
+  dependencies:
+    ansi-styles "^4.1.0"
+    supports-color "^7.1.0"
+
 color-convert@^1.9.0:
   version "1.9.3"
   resolved "https://registry.yarnpkg.com/color-convert/-/color-convert-1.9.3.tgz#bb71850690e1f136567de629d2d5471deda4c1e8"
@@ -118,6 +126,13 @@ lodash@^4.17.14:
   version "4.17.15"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+
+precisebar@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/precisebar/-/precisebar-2.0.0.tgz#937e3010a34b95ca5086c29393ebd31a73c25f9f"
+  integrity sha512-Md8j3VHSQAzOiaNZT87LjbXUMRklzqf7yLLUYZk9gMf+XtZ8F84QIaFBWr25FQMCwtRyt6MQmFAXGR0QKt/yoA==
+  dependencies:
+    chalk "^4.1.0"
 
 punycode@^2.1.0:
   version "2.1.1"
