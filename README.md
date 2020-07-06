@@ -6,21 +6,23 @@
 
 ![Screenshot](https://github.com/leebradley/zipstats/raw/master/screen.png)
 
-## Install
-
-```sh
-$ yarn add zipstats --dev
-```
-
-## Usage
+## Getting started
 
 ### CLI
+
+```sh
+$ yarn add -G zipstats
+```
 
 ```
 Usage: zipstats [FILENAME]
 ```
 
 ### Library
+
+```sh
+$ yarn add zipstats --dev
+```
 
 ```javascript
 const zipstats = require('zipstats');
