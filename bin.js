@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 const fs = require('fs');
-const zipstats = require('../index.js');
+const zipstats = require('./index.js');
 
 if (process.argv.length != 3) {
     console.log('zipstats cli stat display')

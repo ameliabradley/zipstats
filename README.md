@@ -4,7 +4,7 @@
 
 > For a given file, show compression stats for its content
 
-![Screenshot](https://github.com/leebradley/zipstats/raw/master/screenshot.png)
+![Screenshot](https://github.com/leebradley/zipstats/raw/master/screen.png)
 
 ## Install
 
