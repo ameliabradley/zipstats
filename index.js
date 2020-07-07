@@ -54,9 +54,9 @@ module.exports = (filename) => {
           "=>",
           chalk.yellow(fs(compressedSize)),
           `${chalk.gray(fs(compressedSize - size))}`,
-          `${((100 * compressedSize) / totalCompressedSize).toFixed(
+          `${`${((100 * compressedSize) / totalCompressedSize).toFixed(
             1
-          )}% ${chalk.bgGray.white(bar.getProgress(
+          )}%`.padEnd(5)} ${chalk.bgGray.white(bar.getProgress(
             compressedSize / totalCompressedSize,
             10
           ))}`,
