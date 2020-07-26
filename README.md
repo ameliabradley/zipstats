@@ -32,7 +32,7 @@ console.log(zipstats("file.zip");
 
 ## License
 
-MIT © 2020 [Lee Bradley](https://github.com/leebradley)
+Blue Oak License v1.0.0 - A modern [alternative](https://writing.kemitchell.com/2019/03/09/Deprecation-Notice.html) to the MIT License.
 
 [npm-url]: https://www.npmjs.com/package/zipstats
 [npm-image]: https://badgen.net/npm/v/zipstats
