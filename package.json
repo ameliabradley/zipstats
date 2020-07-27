@@ -28,7 +28,7 @@
     "adm-zip": "^0.4.16",
     "chalk": "^3.0.0",
     "filesize": "^6.1.0",
-    "precisebar": "^2.0.0",
+    "precisebar": "^2.0.2",
     "table": "^5.4.6"
   }
 }

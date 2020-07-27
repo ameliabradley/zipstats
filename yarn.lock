@@ -127,10 +127,10 @@ lodash@^4.17.14:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
   integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
-precisebar@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/precisebar/-/precisebar-2.0.0.tgz#937e3010a34b95ca5086c29393ebd31a73c25f9f"
-  integrity sha512-Md8j3VHSQAzOiaNZT87LjbXUMRklzqf7yLLUYZk9gMf+XtZ8F84QIaFBWr25FQMCwtRyt6MQmFAXGR0QKt/yoA==
+precisebar@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/precisebar/-/precisebar-2.0.2.tgz#635684b82ab718830f7ca4e24a8b3e6cd995a8c1"
+  integrity sha512-sCYlgePCmHssBIn8kGsJvFO65xhmiLi9FsCsyeqxRO4igv2Krj+8k1CqeeCjcWsE6zpR1HBtvIWziQleEVRJJw==
   dependencies:
     chalk "^4.1.0"
 
