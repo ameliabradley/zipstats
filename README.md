@@ -8,6 +8,8 @@
 
 ## Getting started
 
+**zipstats** can either be used as a command-line application or included as a node package to be used as part of another node process (such as Gulp or Grunt).
+
 ### CLI
 
 ```sh
