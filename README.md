@@ -1,4 +1,4 @@
-[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
+[![NPM version][npm-image]][npm-url] [![Node.js CI][workflow-image]][workflow-url]
 
 # zipstats
 
@@ -39,5 +39,5 @@ Blue Oak License v1.0.0 - A modern [alternative](https://writing.kemitchell.com/
 
 [gh-url]: https://github.com/leebradley/zipstats
 
-[travis-url]: https://travis-ci.com/leebradley/zipstats
-[travis-image]: https://travis-ci.com/leebradley/zipstats.svg?branch=master
+[workflow-url]: https://github.com/leebradley/zipstats/actions?query=workflow%3A%22Node.js+CI%22+branch%3Amaster
+[workflow-image]: https://github.com/leebradley/zipstats/workflows/Node.js%20CI/badge.svg
