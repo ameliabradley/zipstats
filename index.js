@@ -58,7 +58,9 @@ module.exports = (filename) => {
             1
           )}%`.padEnd(5)} ${chalk.bgGray.white(bar.getProgress(
             compressedSize / totalCompressedSize,
-            10
+            10,
+            '',
+            ''
           ))}`,
         ];
       }),
